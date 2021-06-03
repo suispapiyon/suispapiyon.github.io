@@ -37,3 +37,9 @@ https://github.com/suispapiyon/suispapiyon.github.io
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+cd suispapiyon.github.io
+echo "This is Richard Chan!" >index.html
+git add index.html
+git commit-m "Init commit"
+git push origin master
