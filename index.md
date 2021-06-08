@@ -1,6 +1,6 @@
-## This is Richard Chan here！
+# This is Richard Chan here！
 - - -
-# Brief Introduction to Myself
+## Brief Introduction to Myself
 ![C70051D943FDEA1A30F88BDDC30EC9E3](https://user-images.githubusercontent.com/76549676/121231128-9c836700-c8c2-11eb-9d81-f770ba6257a1.jpg)
 
 profile
@@ -11,7 +11,7 @@ Graphic designer at [Shuiyuan Community](https://shuiyuan.sjtu.edu.cn) and SJTU 
 
 Languages: ZH/EN/JP(poorly). Now studying Japanese and French.
 - - -
-# My Social Account and Blogs
+## My Social Account and Blogs
 My twitter account→ [@suis_papiyon](https://twitter.com/suis_papiyon)
 
 My LOFTER account→ [@suis-papiyon](https://suis-papiyon.lofter.com)
