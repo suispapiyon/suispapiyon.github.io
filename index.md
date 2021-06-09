@@ -18,5 +18,16 @@ My LOFTER account→ [@suis-papiyon](https://suis-papiyon.lofter.com)
 
 My LOFTER blog is used for artworks, such as lyric translation and designing works. Since I have no previous experience in writing codes, this blog will see my path in writing codes and web front end.XD
 - - -
+## My Works
+
+###  Music 
+
+(waiting to be added)
+
+###  Designing (Posters etc.)
+
+
+
+- - -
 git clone 
 https://github.com/suispapiyon/suispapiyon.github.io
