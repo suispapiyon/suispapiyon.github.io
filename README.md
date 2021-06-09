@@ -1,2 +1,2 @@
 # suispapiyon.github.io
-Richard Chan's Blog
+Richard Chan's Personnal Webpage
