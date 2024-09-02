@@ -1,4 +1,4 @@
-# This is Richard Chen here！
+# This is R.C. here！
 - - -
 ## Profile
 I am a college student majoring biology science (bioengineering) at SJTU, 2024 bachelor undergraduate.
