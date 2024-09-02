@@ -1,2 +1,2 @@
 # suispapiyon.github.io
-Richard Chen's Personal Webpage
+RC's Personal Webpage
